@@ -107,7 +107,7 @@ class Config
         $this->comment .= "/*   ___________________________________________________" . PHP_EOL;
         $this->comment .= "    | Aura Komputer - Jasa Pembuatan Aplikasi Komputer |" . PHP_EOL;
         $this->comment .= "    |              on %s             |" . PHP_EOL;
-        $this->comment .= "    |    Contact: https://linktr.ee/aurakomputer       |" . PHP_EOL;
+        $this->comment .= "    |    Contact: https://s.id/aurakomputer            |" . PHP_EOL;
         $this->comment .= "    |__________________________________________________|" . PHP_EOL;
         $this->comment .= "*/" . PHP_EOL;
     }
